@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+body {
+  height: 100vh;
+  /* overflow: hidden; */
+}
+main {
+  flex: 1 1 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
